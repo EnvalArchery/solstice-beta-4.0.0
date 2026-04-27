@@ -1,0 +1,74 @@
+{
+  "combat.hard": {
+    "sounds": [
+      {
+        "name": "solstice:combat/hard",
+        "stream": false
+      }
+    ]
+  },
+  "combat.metal": {
+    "sounds": [
+      {
+        "name": "solstice:combat/metal",
+        "stream": false
+      }
+    ]
+  },
+  "combat.normal": {
+    "sounds": [
+      {
+        "name": "solstice:combat/normal",
+        "stream": false
+      }
+    ]
+  },
+  "combat.overwatch": {
+    "sounds": [
+      {
+        "name": "solstice:combat/overwatch",
+        "stream": false
+      }
+    ]
+  },
+  "combat.shot": {
+    "sounds": [
+      {
+        "name": "solstice:combat/shot",
+        "stream": false
+      }
+    ]
+  },
+  "combat.soft": {
+    "sounds": [
+      {
+        "name": "solstice:combat/soft",
+        "stream": false
+      }
+    ]
+  },
+  "combat.sword": {
+    "sounds": [
+      {
+        "name": "solstice:combat/sword",
+        "stream": false
+      }
+    ]
+  },
+  "combat.vine": {
+    "sounds": [
+      {
+        "name": "solstice:combat/vine",
+        "stream": false
+      }
+    ]
+  },
+  "combat.wood": {
+    "sounds": [
+      {
+        "name": "solstice:combat/wood",
+        "stream": false
+      }
+    ]
+  }
+}
