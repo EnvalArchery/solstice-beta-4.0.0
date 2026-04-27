@@ -4,6 +4,4 @@
   <img src="https://raw.githubusercontent.com/EnvalArchery/solstice-beta-4.0.0/main/nullrushdc.png" width="450" alt="Solstice Beta 4.0.0" />
 </p>
 
-## About
-
 The client sources were directly taken from NullRush and shared by Enval.
